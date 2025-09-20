@@ -2,7 +2,7 @@
 
 ##First Project in GitHub
 
-##eLarn using repositories
+##Learn using repositories
 
 ##Author
 BaumeisterM
