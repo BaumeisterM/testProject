@@ -1,8 +1,8 @@
 # testProject
 
-##Erstes Projekt auf GitHub
+##First Project in GitHub
 
-##Übungen mit Repository
+##eLarn using repositories
 
-##Autor
+##Author
 BaumeisterM
