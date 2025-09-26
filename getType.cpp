@@ -1,5 +1,4 @@
 #include <iostream>
-#include "getType.h"
 #include <string>
 #include <type_traits> // for is_same_v<T, U>
 
