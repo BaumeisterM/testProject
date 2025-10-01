@@ -19,8 +19,7 @@ indent_mode=2
 
 [project]
 name=Ort1
-base_path=C:\\Users\\baume\\testProject\\Ort
-description=
+base_path=C:\\Users\\baume\\testProject\\Ort1
 
 [long line marker]
 long_line_behaviour=1
@@ -30,7 +29,7 @@ long_line_column=72
 current_page=0
 
 [prjorg]
-expanded_paths=C:\\Users\\baume\\testProject\\Ort;
+expanded_paths=
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
 header_patterns=*.h;*.H;*.hpp;*.hxx;*.h++;*.hh;
 ignored_dirs_patterns=.*;CVS;
